@@ -49,4 +49,19 @@ alert("El valor de z es" + z)
 
 En este ejemplo podemos ver domo se usas los operadores de concatenacion para unir datos tipos strings, como resultado esto nos dara *El valor de z es 3*
 
+### obteniendo datos del usuario 
+
+* acordador que:
+
+La consola nos sirve para saber el estado de las variables
+ 
+
+Cuando tienen un valor en comillas("") es un texto
+ 
+
+Puedes usar la función prompt para recibir datos del usuario.
+ 
+
+Concatenar es unir cadenas de texto a variables
+
 
