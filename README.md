@@ -21,3 +21,11 @@
 Cuando nos referimos al termino variable esto quiere decir que es un elemento que se emplea para almacenar y hacer referencia a otro valor.
 
 Los arreglos son un conjunto de datos ordenados por posiciones y todos asociados en una sola variable.
+
+
+### mi primer alerta
+
+Es una de las cosas mas basixas en JS, alert es basicamente una funcion, se pone dentro de parentesis por el simple hecho de que las funciones funcionan con parametros y se le pone entre comillas porque es un *string* 
+asi se hace una alerta *alert("Hola mama, estoy programando");*
+
+
