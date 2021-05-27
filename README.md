@@ -25,7 +25,27 @@ Los arreglos son un conjunto de datos ordenados por posiciones y todos asociados
 
 ### mi primer alerta
 
-Es una de las cosas mas basixas en JS, alert es basicamente una funcion, se pone dentro de parentesis por el simple hecho de que las funciones funcionan con parametros y se le pone entre comillas porque es un *string* 
+Es una de las cosas mas basixas en JS, alert es basicamente una funcion, se pone dentro de parentesis por el simple hecho de que las funciones funcionan con parametros y se le pone entre comillas porque es un *string*.
+
 asi se hace una alerta *alert("Hola mama, estoy programando");*
+
+### variables y operaciones matematicas
+
+la palabra clave *var* para declara variables, como sabemos con las variables se pueden hacer operaciones un claro ejemplo los podemos ver aqui:
+
+si declaramos las varianles:
+
+var x = 2;
+vae y = 1;
+
+var z = x + y;
+
+si llammamos la variable z no va a dar como resultado z=3, porque al sumar x + y = 3.
+
+un ejemplo de una alerta con strings y variables es este:
+
+alert("El valor de z es" + z)
+
+En este ejemplo podemos ver domo se usas los operadores de concatenacion para unir datos tipos strings, como resultado esto nos dara *El valor de z es 3*
 
 
