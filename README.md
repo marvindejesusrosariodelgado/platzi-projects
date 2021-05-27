@@ -29,14 +29,15 @@ Es una de las cosas mas basixas en JS, alert es basicamente una funcion, se pone
 
 asi se hace una alerta *alert("Hola mama, estoy programando");*
 
-### variables y operaciones matematicas
+### variables y operadores matematicos
 
 la palabra clave *var* para declara variables, como sabemos con las variables se pueden hacer operaciones un claro ejemplo los podemos ver aqui:
 
 si declaramos las varianles:
 
 var x = 2;
-vae y = 1;
+
+var y = 1;
 
 var z = x + y;
 
