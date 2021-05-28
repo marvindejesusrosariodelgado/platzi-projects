@@ -124,7 +124,7 @@ else
 
 En aplicaciones web tenemos un concepto llamado DOM (Document Object Model) es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol
 
-### 
+### Dibujando en el DOM
 
 Es importante saber: 
 
@@ -132,3 +132,18 @@ Es importante saber:
  
 
  * Puedes obtener un elemento con su id buscándolo con document.getElementById('nombre_id');
+
+ ### Funciones en JS
+
+
+ La funciones son una herramienta que nos permite escribir código que vamos a re-usar múltiples veces
+
+ * Puedes escribir una función en JavaScript así:
+
+ 
+
+function nombreFuncion(parametros) {
+
+ //Código que ejecuta la función
+
+}
