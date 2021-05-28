@@ -51,17 +51,60 @@ En este ejemplo podemos ver domo se usas los operadores de concatenacion para un
 
 ### obteniendo datos del usuario 
 
-* acordador que:
-
-La consola nos sirve para saber el estado de las variables
+  * La consola nos sirve para saber el estado de las variables
  
 
-Cuando tienen un valor en comillas("") es un texto
+* Cuando tienen un valor en comillas("") es un texto
  
 
-Puedes usar la función prompt para recibir datos del usuario.
+* Puedes usar la función prompt para recibir datos del usuario.
  
 
-Concatenar es unir cadenas de texto a variables
+* Concatenar es unir cadenas de texto a variables
+
+### Flujo y condicionales 
+
+Creemos primero para resolver los problemas, para esto debemos aprender a usar condicionales, para escribir una condicional se usa una palabra clave llamada if.
+* if (planeta == 1)
+
+{
+
+// Código si la condición se cumple
+
+}
+
+else
+
+{
+
+// Código si la condición no se cumple
+
+}
+
+Si quisiéramos tener tener varias condiciones podemos escribir nuevas condiciones con la palabra reservada else if
+
+if (planeta == 1)
+
+{
+
+// Código si la condición se cumple
+
+}
+
+else if (planeta == 2)
+
+{
+
+// Código si la segunda condición se cumple
+
+}
+
+else
+
+{
+
+// Código si las condiciones no se cumplen
+
+}
 
 
