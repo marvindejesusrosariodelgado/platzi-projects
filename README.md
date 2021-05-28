@@ -123,3 +123,12 @@ else
  
 
 En aplicaciones web tenemos un concepto llamado DOM (Document Object Model) es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol
+
+### 
+
+Es importante saber: 
+
+* ID es el identificador con el que podemos encontrar etiquetas con JavaScript, los nombres siguen las mismas reglas que las variables
+ 
+
+ * Puedes obtener un elemento con su id buscándolo con document.getElementById('nombre_id');
