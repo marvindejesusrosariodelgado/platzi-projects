@@ -163,3 +163,11 @@ Los eventos son funciones que suceden cuando algo ocurre,  sucesos cómo un clic
 
 * En JavaScript puedes agregar un manejador de eventos con element.addEventListener('event', function)
 
+### Detectar eventos del teclado con JavaScript
+
+Debemos recordar que :
+
+
+* Un programador divide los grandes problemas en problemas más pequeños.
+
+* Todo manejador de eventos devuelve un objeto con los detalles del evento.
