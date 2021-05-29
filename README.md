@@ -171,3 +171,12 @@ Debemos recordar que :
 * Un programador divide los grandes problemas en problemas más pequeños.
 
 * Todo manejador de eventos devuelve un objeto con los detalles del evento.
+
+
+### Funciones matemáticas y números aleatorios en JavaScript
+
+Math.floor() devuelve el número entero por debajo de los decimales.
+
+Math.ceil() devuelve el siguiente número entero arriba de los decimales
+
+Math.random() devuelve un número aleatorio de 0 a 0.999..
