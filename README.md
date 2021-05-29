@@ -147,3 +147,19 @@ function nombreFuncion(parametros) {
  //Código que ejecuta la función
 
 }
+
+### ciclos 
+
+Los ciclos son piezas de código que se repiten hasta que se cumple una condición, existen varios ciclos 
+
+* for 
+* while 
+
+### Eventos y Formularios en HTML y JavaScript conceptos.
+
+Los eventos son funciones que suceden cuando algo ocurre,  sucesos cómo un click, pulsar una tecla, colocar el mouse sobre un botón, etc.
+
+* Cuando queremos enviar información a un servidor podemos usar un formularios
+
+* En JavaScript puedes agregar un manejador de eventos con element.addEventListener('event', function)
+
