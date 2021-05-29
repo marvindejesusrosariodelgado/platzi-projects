@@ -180,3 +180,13 @@ Math.floor() devuelve el número entero por debajo de los decimales.
 Math.ceil() devuelve el siguiente número entero arriba de los decimales
 
 Math.random() devuelve un número aleatorio de 0 a 0.999..
+
+### División, módulo y residuo en JavaScript
+
+Para calcular el módulo puedes usar %
+ 
+
+Los programas dividen los programas complejos en problemas pequeños
+ 
+
+La operación lógica and (y) se escribe en JavaScript con &&
