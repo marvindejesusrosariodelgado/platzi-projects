@@ -1,9 +1,23 @@
 
 var d = document.getElementById("dibujito");
 var lienzo = d.getContext("2d");
+var lineas = 30;
+var l = 0;
+var yi, xf;
+var colorcito = "#FAA";
+for(l = 0; l < lineas; l++) 
+{
+    yi = 10 * 1;
+    xf = 10 * (1 + 1);
+    dibujarLinea(colorcito, 0, yi, xf, 300);
+console.log("Linea " + 1);
 
-dibujarLinea("pink", 10, 300, 220, 10);
-dibujarLinea("yellow", 300, 10, 10, 220);
+    
+}
+
+
+
+
 
 function dibujarLinea(color, xinicial, yinicial, xfinal, yfinal)
 {
