@@ -191,3 +191,8 @@ Los programas dividen los programas complejos en problemas pequeños
 
 La operación lógica and (y) se escribe en JavaScript con &&
 
+### Clases y Arrays en JavaScript
+
+Los arrays se forman en Javascript a través de una clase, de la siguiente forma: var <nombre_array> = new Array(<longitud>); Vamos a realizar un ejemplo en el que crearemos un array de 3 posiciones y le asignaremos un valor a cada posición del array.
+
+* clases son la definición de los objetos
