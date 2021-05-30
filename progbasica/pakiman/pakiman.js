@@ -1,5 +1,6 @@
 class Pakiman
 {
+    
   constructor(n, v, a)
   {
     this.imagen = new Image();
@@ -12,6 +13,8 @@ class Pakiman
   hablar()
   {
     alert(this.nombre);
+
+
   }
   mostrar()
   {
