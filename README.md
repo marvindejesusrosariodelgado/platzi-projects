@@ -247,3 +247,34 @@ A un grupo de tecnologías se les conoce como Stack.
 Recuerda:
 
 Si tuvieras un código en el Frontend que se conectara a una base de datos, esta seria visible para todos.
+
+### La web con vision profesional
+
+La Web en su auge
+Poca oferta y mucha demanda en empresas y startups, incluso, aumenta diariamente.
+
+No hay suficientes profesionales web.
+
+Esos puestos deben cubrirse con perfiles épicos, apasionados por la tecnología.
+
+Desgraciadamente, aparecen muchas personas que entran al sector sin disfrutarlo, más como obligación o porque está "caliente" el mercado. Y no debe ser totalmente así.
+
+Debes de gozarlo.
+
+Las empresas quieren mejorar comunicación, costos, ventas, infraestructura pero desconocen los "cómo" o peor aún, saben que existe, pero no cuentan con los profesionales aptos para esos puestos.
+
+
+Practicar, no memorizar
+" HTML5, CSS3, Javascript, HAML, Slim, ERB, Stylus, SASS, LESS, Coffeescript, Ruby, Rails, RVM, RubyGems, Bundler, Sinatra, GIT, MySQL, PostgreSQL, MongoDB, Python, Django, Responsive Design, Mobile First, API’s, NodeJS, BackboneJS, EmberJS, AngularJS…"
+
+Hay miles de tecnologías y conceptos. Y todas tienen un porqué.
+
+No te sientas mal si al principio te cuesta trabajo o aparecen millones de errores, es natural.
+
+De antemano te digo que te va a doler, pasarás horas perdido, lo odiarás con el alma.
+
+Pero, valdrá la pena llegar.
+
+Poco a poco, dominarás la disciplina y empezarás a notar una increíble apertura de puertas y oportunidades que muy pocas personas tienen.
+
+
