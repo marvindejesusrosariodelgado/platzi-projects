@@ -278,3 +278,6 @@ Pero, valdrá la pena llegar.
 Poco a poco, dominarás la disciplina y empezarás a notar una increíble apertura de puertas y oportunidades que muy pocas personas tienen.
 
 
+### Tablas logicas 
+
+Una tabla de verdad muestra el valor de verdadero de una proposición compuesta, para cada combinación de verdad que se pueda asignar. Esto es la base de la programación y la electrónica.
